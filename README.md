@@ -1,0 +1,1 @@
+Run Alien destroyer.pyw for playing
